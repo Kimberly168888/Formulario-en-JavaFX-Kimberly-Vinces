@@ -17,3 +17,4 @@ Controlador y Eventos:
 
 La clase AllControlsController actúa como el controlador para la interfaz gráfica, aunque actualmente no contiene lógica adicional.
 Esta clase puede ser extendida para manejar eventos de usuario (por ejemplo, clics de botón, cambios en checkbox, etc.) o para realizar operaciones lógicas más complejas según sea necesario.
+
